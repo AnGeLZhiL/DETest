@@ -5,4 +5,9 @@
     <string name="sign_in">Войти в аккаунт</string>
     <string name="no_acc">Еще нет аккаунта?</string>
     <string name="reg">Зарегистрируйтесь</string>
+    <string name="sign_in_k">Войти</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="profile">Профиль</string>
 </resources>

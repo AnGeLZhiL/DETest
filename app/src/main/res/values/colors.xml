@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="bgc_btn">#7C9A92</color>
     <color name="bgc">#253334</color>
+    <color name="gray">#BEC2C2</color>
 </resources>
